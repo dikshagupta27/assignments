@@ -1,0 +1,120 @@
+html,body,div{
+border:0;
+font:inherit;
+font-size:100%;
+margin:0;
+padding:0;
+vertical-align:baseline;
+font-family: 'Lato', helvetica, arial, sans-serif;
+ font-size: 16px; }
+
+
+.clear {
+clear: both;}
+
+
+p {
+	font-size: 1.2em;
+	line-height: 1.4em;
+	
+	color: black;
+}
+
+#cv {
+	width: 90%;
+	max-width: 800px;
+	
+	margin: 30px auto;
+}
+
+.mainDetails {
+	padding: 25px 35px;
+	border-bottom: 2px solid black;
+	
+}
+
+#name h1 {
+	font-size: 2.5em;
+	font-weight: 700;
+	font-family:  Helvetica, sans-serif;
+	margin-bottom: -6px;
+}
+
+
+#pic {
+	width: 12.5%;
+	float: left;
+	margin-right: 30px;
+        padding-right: 70px;
+}
+
+
+#pic img {
+	width:140px;
+	height:180px;
+	
+	border-radius: 60%;
+}
+
+#name {
+	float: left;
+}
+
+section {
+	border-top: 1px ;
+	padding: 20px 0 0;
+}
+
+
+.sectionTitle {
+	float: left;
+	width: 25%;
+}
+
+.sectionContent {
+	float: right;
+	width: 72.5%;
+}
+
+.sectionTitle h1  {
+	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+	font-style: italic;
+	font-size: 1.5em;
+	color: black;
+ text-decoration: underline;
+ border-right: 1px solid black ;
+
+
+}
+
+#edu {
+	border-right: 1px solid black ;
+ height:480px ;
+}
+
+#skills {
+	border-right: 1px solid black ;
+ height:220px ;
+
+}
+
+#certi {
+	border-right: 1px solid black ;
+         height:180px ;
+}
+
+.sectionContent ul{
+font-size: 1.2em;
+}
+
+.sectionContent h2 {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 1.5em;
+	}
+
+.subDetails {
+	font-size: 0.8em;
+	font-style: italic;
+	
+}
+
